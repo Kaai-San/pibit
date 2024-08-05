@@ -1,0 +1,36 @@
+{
+  "name": "John Doe",
+  "contact_information": {
+    "email": "john.doe@example.com",
+    "phone": "+1-234-567-8901",
+    "address": "123 Main St, Anytown, USA"
+  },
+  "summary": "Experienced software developer with a background in full-stack development and a passion for problem-solving.",
+  "experience": [
+    {
+      "job_title": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "location": "New York, NY",
+      "start_date": "January 2022",
+      "end_date": "Present",
+      "responsibilities": [
+        "Developed and maintained web applications.",
+        "Collaborated with cross-functional teams.",
+        "Optimized application performance."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Example",
+      "graduation_year": 2020
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Python",
+    "React",
+    "Node.js"
+  ]
+}
